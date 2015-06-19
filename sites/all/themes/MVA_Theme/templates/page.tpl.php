@@ -151,7 +151,7 @@
       <?php endif; ?>
       <div class="row">
       <div class="col-lg-12">
-      <?php print render($page['featured_events']);?>
+      <!--<?php print render($page['featured_events']);?> -->
    </div>
     </div>
     <div class="row">
