@@ -149,9 +149,21 @@
       <?php if (!empty($action_links)): ?>
         <ul class="action-links"><?php print render($action_links); ?></ul>
       <?php endif; ?>
+     
       <div class="row">
-      <div class="col-lg-12">
-      <!--<?php print render($page['featured_events']);?> -->
+      <div class="col-lg-3" id="feature">
+        
+        </div>
+        <div class="col-lg-3" id="feature">
+          
+          </div>
+          <div class="col-lg-3" id="feature">
+            
+            </div>
+        <div class="col-lg-3" id="feature">
+          
+        </div>
+      <?php print render($page['featured_events']);?>
    </div>
     </div>
     <div class="row">

@@ -5,3 +5,14 @@
 #middle{
     background-color:#C1CDC1;
 }
+
+.node-feature-events .node .contextual-links-region .clearfix
+{
+margin-bottom: 1.385em;
+  padding-bottom: 1.385em;
+  border-bottom: solid 1px #ddd;
+}
+
+#node-5{
+    margin:auto 0em;
+}
