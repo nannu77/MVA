@@ -11,8 +11,11 @@
 margin-bottom: 1.385em;
   padding-bottom: 1.385em;
   border-bottom: solid 1px #ddd;
+  text-indent: 2em;
 }
 
-#node-5{
-    margin:auto 0em;
+.leaf{
+    color: rgb(0, 0, 0);
+    text-decoration: bold;
+    
 }
